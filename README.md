@@ -19,10 +19,9 @@ Selamat Menikmati :D
 
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
-|Deploy Via Bot
+|Deploy Via Bot|  Deploy Via Web|
 |--|--|
-| 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI)
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://geezram.now.sh) |
 
 
 ### Create String Session
