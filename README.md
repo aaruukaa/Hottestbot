@@ -26,7 +26,7 @@ Selamat Menikmati :D
 
 ### Create String Session
 
-[![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@vckyou/String)
+[![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://replit.com/@AlVander/STRING-HOT)
 
 
 
