@@ -15,7 +15,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 Selamat Menikmati :D
 ```
 
-## GeezProjects Bot
+## Hottest Userbot
 
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
@@ -35,16 +35,6 @@ Selamat Menikmati :D
 
 [![DeepSource](https://deepsource.io/gh/vckyou/GeezProjects.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/vckyou/GeezProjects/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/vckyou/GeezProjects.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/vckyou/GeezProjects/?ref=repository-badge)
 
-
-### Tutorial Deploy To VPS
-
--  ( `git clone https://github.com/vckyou/GeezProjects` )
--  ( `cd GeezProjects` )
--  ( `pip3 install -r requirements.txt` )
--  ( `mv sample_config.env config.env` )
--  edit config.env Anda dan isi VARS menggunakan ( `nano config.env` ) `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori GeezProjects
--  Buka SCRREN di VPS Anda ( `screen -S GeezProjects` )
--  Kemudian gunakan perintah ini untuk menyebarkan GeezProjects ( `python3 -m userbot` ) Atau ( `bash start` )
 
 
 ### Example Plugin
@@ -74,7 +64,7 @@ async def ping(event):
 *   [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
 *   [X_ImFine](https://github.com/ximfine) :  XBot-REMIX
 
-### Credits
+### Thanks to
 * [![TeamGeez](https://img.shields.io/static/v1?label=GeezProjects&message=contributions&color=critical)](https://github.com/vckyou/GeezProjects/graphs/contributors)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [Laky](https://github.com/Laky-64) for [PyTgCalls.](https://github.com/pytgcalls/pytgcalls)
