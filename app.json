@@ -1,8 +1,8 @@
 {
-  "name": "Geez Userbot",
+  "name": "HottestBot",
   "description": "[HOTTESTBOT] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/02b3dbeb4df30582f0d66.jp",
-  "keywords": ["telegram", "userbot", "geezprojects", "modular", "python"],
+  "keywords": ["telegram", "userbot", "HottestBot", "modular", "python"],
   "repository": "https://github.com/aaruukaa/Hottestbot",
   "stack": "container",
   "env": {
