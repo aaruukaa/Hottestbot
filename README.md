@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/vckyou/GeezProjects"><img src="https://telegra.ph/file/8e256cb133087b060e288.png" alt="Geez Projects" width=240px></a>
+   <a href="https://github.com/aaruukaa/Hottestbot"><img src="https://telegra.ph/file/c45b4f24c8200484280b5.png" alt="Hottest bot" width=240px></a>
    <br>
    <br>
 </p>
